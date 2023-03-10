@@ -1,0 +1,19 @@
+{
+  "Messages":[
+    {
+      "From": {
+        "Email": "maksym.botviniev@leiainc.com",
+        "Name": "Notification"
+      },
+      "To": [
+        {
+          "Email": "---EMAIL---",
+          "Name": "---NAME---"
+        }
+      ],
+      "Subject": "Code",
+      "HTMLPart": "<h3>Your code: ---CODE---</h3>",
+      "CustomID": "AppGettingStartedTest"
+    }
+  ]
+}
